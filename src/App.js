@@ -43,6 +43,11 @@ class App extends Component {
                 id: 3,
                 name: 'Nguyen Van C',
                 age: 22
+            },
+            {
+                id: 4,
+                name: 'Nguyen Van D',
+                age: 23
             }
         ];
 
